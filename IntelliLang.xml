@@ -1,0 +1,28 @@
+<application>
+  <component name="LanguageInjectionConfiguration">
+    <injection language="AngularJS" injector-id="xml">
+      <display-name>h1</display-name>
+      <place><![CDATA[xmlTag().withLocalName(string().equalTo("h1")).withNamespace(string().equalTo("http://www.w3.org/1999/html"))]]></place>
+    </injection>
+    <injection language="AngularJS" injector-id="xml">
+      <display-name>html</display-name>
+      <place><![CDATA[xmlTag().withLocalName(string().equalTo("html")).withNamespace(string().equalTo("http://www.w3.org/1999/html"))]]></place>
+    </injection>
+    <injection language="Oracle" injector-id="xml">
+      <display-name>mapper</display-name>
+      <place><![CDATA[xmlTag().withLocalName(string().equalTo("mapper")).withNamespace(string().equalTo("http://mybatis.org/dtd/mybatis-3-mapper.dtd"))]]></place>
+    </injection>
+    <injection language="Oracle" injector-id="xml">
+      <display-name>resultMap</display-name>
+      <place><![CDATA[xmlTag().withLocalName(string().equalTo("resultMap")).withNamespace(string().equalTo("http://mybatis.org/dtd/mybatis-3-mapper.dtd"))]]></place>
+    </injection>
+    <injection language="Angular2HTML" injector-id="xml">
+      <display-name>script/@scr</display-name>
+      <place><![CDATA[xmlAttribute().withLocalName(string().equalTo("scr")).withParent(xmlTag().withLocalName(string().equalTo("script")).withNamespace(string().equalTo("http://www.w3.org/1999/html")))]]></place>
+    </injection>
+    <injection language="Oracle" injector-id="xml">
+      <display-name>update/@parameterType</display-name>
+      <place><![CDATA[xmlAttribute().withLocalName(string().equalTo("parameterType")).withParent(xmlTag().withLocalName(string().equalTo("update")).withNamespace(string().equalTo("http://mybatis.org/dtd/mybatis-3-mapper.dtd")))]]></place>
+    </injection>
+  </component>
+</application>

@@ -1,0 +1,105 @@
+<application>
+  <component name="ProjectJdkTable">
+    <jdk version="2">
+      <name value="1.8" />
+      <type value="JavaSDK" />
+      <version value="java version &quot;1.8.0_25&quot;" />
+      <homePath value="$JDK_HOME$" />
+      <roots>
+        <classPath>
+          <root type="composite">
+            <root url="jar://$JDK_HOME$/jre/lib/charsets.jar!/" type="simple" />
+            <root url="jar://$JDK_HOME$/jre/lib/deploy.jar!/" type="simple" />
+            <root url="jar://$JDK_HOME$/jre/lib/ext/access-bridge-64.jar!/" type="simple" />
+            <root url="jar://$JDK_HOME$/jre/lib/ext/cldrdata.jar!/" type="simple" />
+            <root url="jar://$JDK_HOME$/jre/lib/ext/dnsns.jar!/" type="simple" />
+            <root url="jar://$JDK_HOME$/jre/lib/ext/jaccess.jar!/" type="simple" />
+            <root url="jar://$JDK_HOME$/jre/lib/ext/jfxrt.jar!/" type="simple" />
+            <root url="jar://$JDK_HOME$/jre/lib/ext/localedata.jar!/" type="simple" />
+            <root url="jar://$JDK_HOME$/jre/lib/ext/nashorn.jar!/" type="simple" />
+            <root url="jar://$JDK_HOME$/jre/lib/ext/sunec.jar!/" type="simple" />
+            <root url="jar://$JDK_HOME$/jre/lib/ext/sunjce_provider.jar!/" type="simple" />
+            <root url="jar://$JDK_HOME$/jre/lib/ext/sunmscapi.jar!/" type="simple" />
+            <root url="jar://$JDK_HOME$/jre/lib/ext/sunpkcs11.jar!/" type="simple" />
+            <root url="jar://$JDK_HOME$/jre/lib/ext/zipfs.jar!/" type="simple" />
+            <root url="jar://$JDK_HOME$/jre/lib/javaws.jar!/" type="simple" />
+            <root url="jar://$JDK_HOME$/jre/lib/jce.jar!/" type="simple" />
+            <root url="jar://$JDK_HOME$/jre/lib/jfr.jar!/" type="simple" />
+            <root url="jar://$JDK_HOME$/jre/lib/jfxswt.jar!/" type="simple" />
+            <root url="jar://$JDK_HOME$/jre/lib/jsse.jar!/" type="simple" />
+            <root url="jar://$JDK_HOME$/jre/lib/management-agent.jar!/" type="simple" />
+            <root url="jar://$JDK_HOME$/jre/lib/plugin.jar!/" type="simple" />
+            <root url="jar://$JDK_HOME$/jre/lib/resources.jar!/" type="simple" />
+            <root url="jar://$JDK_HOME$/jre/lib/rt.jar!/" type="simple" />
+          </root>
+        </classPath>
+        <sourcePath>
+          <root type="composite">
+            <root url="jar://$JDK_HOME$/src.zip!/" type="simple" />
+            <root url="jar://$JDK_HOME$/javafx-src.zip!/" type="simple" />
+          </root>
+        </sourcePath>
+      </roots>
+      <additional />
+    </jdk>
+    <jdk version="2">
+      <name value="Python 3.7" />
+      <type value="Python SDK" />
+      <version value="Python 3.7.1" />
+      <homePath value="D:\Users\Shiv_PC\Anaconda3\python.exe" />
+      <roots>
+        <classPath>
+          <root type="composite">
+            <root url="file://D:/Users/Shiv_PC/Anaconda3/DLLs" type="simple" />
+            <root url="file://D:/Users/Shiv_PC/Anaconda3/Lib" type="simple" />
+            <root url="file://D:/Users/Shiv_PC/Anaconda3/Lib/site-packages" type="simple" />
+            <root url="file://D:/Users/Shiv_PC/Anaconda3/Lib/site-packages/pip-19.1.1-py3.7.egg" type="simple" />
+            <root url="file://D:/Users/Shiv_PC/Anaconda3/Lib/site-packages/win32" type="simple" />
+            <root url="file://D:/Users/Shiv_PC/Anaconda3/Lib/site-packages/win32/lib" type="simple" />
+            <root url="file://D:/Users/Shiv_PC/Anaconda3/Lib/site-packages/pythonwin" type="simple" />
+            <root url="file://$USER_HOME$/AppData/Local/JetBrains/PyCharm2020.1/python_stubs/2137483238" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/plugins/python/helpers/python-skeletons" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/plugins/python/helpers/typeshed/stdlib/3.7" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/plugins/python/helpers/typeshed/stdlib/3" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/plugins/python/helpers/typeshed/stdlib/2and3" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/plugins/python/helpers/typeshed/third_party/3" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/plugins/python/helpers/typeshed/third_party/2and3" type="simple" />
+          </root>
+        </classPath>
+        <sourcePath>
+          <root type="composite" />
+        </sourcePath>
+      </roots>
+      <additional />
+    </jdk>
+    <jdk version="2">
+      <name value="Python 2.7 (ML_HW_python2)" />
+      <type value="Python SDK" />
+      <version value="Python 2.7.16" />
+      <homePath value="D:\Users\Shiv_PC\ML_HW_python2\Scripts\python.exe" />
+      <roots>
+        <classPath>
+          <root type="composite">
+            <root url="file://D:/Users/Shiv_PC/ML_HW_python2/Lib" type="simple" />
+            <root url="file://D:/Users/Shiv_PC/ML_HW_python2/Scripts" type="simple" />
+            <root url="file://D:/Users/Shiv_PC/Anaconda2/Lib" type="simple" />
+            <root url="file://D:/Users/Shiv_PC/Anaconda2/DLLs" type="simple" />
+            <root url="file://D:/Users/Shiv_PC/Anaconda2/Lib/lib-tk" type="simple" />
+            <root url="file://D:/Users/Shiv_PC/ML_HW_python2" type="simple" />
+            <root url="file://D:/Users/Shiv_PC/ML_HW_python2/Lib/site-packages" type="simple" />
+            <root url="file://$USER_HOME$/.PyCharm2019.2/system/python_stubs/-1377201105" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/python-skeletons" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/2" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/2and3" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/third_party/2" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/third_party/2and3" type="simple" />
+          </root>
+        </classPath>
+        <sourcePath>
+          <root type="composite" />
+        </sourcePath>
+      </roots>
+      <additional />
+    </jdk>
+  </component>
+</application>

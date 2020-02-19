@@ -1,0 +1,8 @@
+<application>
+  <component name="PathMacrosImpl">
+    <macro name="JDK_HOME" value="D:/Tools/javalib/jdk1.8.0_25" />
+    <macro name="KOTLIN_BUNDLED" value="C:\Program Files\JetBrains\IntelliJ IDEA 2017.3\plugins\Kotlin\kotlinc" />
+    <macro name="MAVEN_REPOSITORY" value="C:/Users/napatel/.m2/repository" />
+    <macro name="SABA_BUILD_DIR" value="D:/Saba-Build/Saba-People-Cloud/SabaWeb" />
+  </component>
+</application>
